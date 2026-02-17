@@ -146,7 +146,7 @@ To scrape Reddit data, generate your own API keys:
 
 ## **🤝 Contributors**  
 
-- **Abhinav**: Developer and Data Scientist  
+- **Hardik**: Data Science Aspirant
 
 ---
 
